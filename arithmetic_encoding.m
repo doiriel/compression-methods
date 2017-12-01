@@ -4,7 +4,9 @@
 %outputs a binary stream of the sequence.
 
 function binary_stream = arithmetic_encoding(list_of_symbols, probabilities, sequence_to_code)
-    
+
+    %ADD SORTING FUNCTION FOR PROBABILIELES AND LUST OF SYMBOLS
+
     %Create a list of all high ranges and a list of all low ranges for
     %symbols.
     highrange(list_of_symbols(1)) = 1.;
@@ -29,3 +31,5 @@ function binary_stream = arithmetic_encoding(list_of_symbols, probabilities, seq
         oldlow = newlow;
     end
 end
+
+%BINARY ENCODE THE OUTPUT
