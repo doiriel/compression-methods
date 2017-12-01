@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Compression Report.aux
+The style file: naturemag.bst
+Database file #1: MyCollection.bib
+You've used 1 entry,
+            2348 wiz_defined-function locations,
+            983 strings with 8857 characters,
+and the built_in function-call counts, 308 in all, are:
+= -- 15
+> -- 4
+< -- 0
++ -- 2
+- -- 1
+* -- 39
+:= -- 35
+add.period$ -- 2
+call.type$ -- 1
+change.case$ -- 1
+chr.to.int$ -- 0
+cite$ -- 1
+duplicate$ -- 26
+empty$ -- 37
+format.name$ -- 1
+if$ -- 62
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 8
+newline$ -- 12
+num.names$ -- 1
+pop$ -- 10
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 4
+stack$ -- 0
+substring$ -- 0
+swap$ -- 25
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 1
+width$ -- 2
+write$ -- 16

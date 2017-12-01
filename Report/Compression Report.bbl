@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Salomon2007}
+\bibinfo{author}{Salomon, D.}
+\newblock \emph{\bibinfo{title}{{Data Compression: The Complete Reference}}}
+  (\bibinfo{publisher}{Springer}, \bibinfo{address}{London},
+  \bibinfo{year}{2007}), \bibinfo{edition}{fourth} edn.
+
+\end{thebibliography}
